@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="rayna_ade_sakira_my_movie"
+        android:label="AnimeKu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
